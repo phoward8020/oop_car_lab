@@ -5,7 +5,7 @@ The idea of this lab is to get you comfortable with Object Oriented Programming 
 
 ## Cars
 
-We need a prototype for a car can you help us with your sweet javascript skills?
+We need a prototype for a car. Can you help us with your sweet javascript skills?
 
 ### Phase I
 
